@@ -1,0 +1,17 @@
+{
+    "name": "xigen/styleguide",
+    "type": "coding-standard",
+    "description": "CodeSniffer ruleset for the Xigen coding standard",
+    "keywords": ["coding standard", "phpcs"],
+    "homepage": "https://git.xigen.co.uk/php/styleguide",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Chirs Hilsdon",
+            "email": "chrish@xigen.co.uk"
+        },
+    ],
+    "require": {
+        "squizlabs/php_codesniffer": "~2.0"
+    }
+}
