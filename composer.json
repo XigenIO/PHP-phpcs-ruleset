@@ -1,9 +1,9 @@
 {
-    "name": "xigen/codesniffer",
+    "name": "xigen.io/phpcs-ruleset",
     "type": "coding-standard",
-    "description": "CodeSniffer ruleset for the Xigen coding standard",
+    "description": "PHP ruleset for Xigen coding standards",
     "keywords": ["coding standard", "phpcs"],
-    "homepage": "https://git.xigen.co.uk/php/styleguide",
+    "homepage": "https://github.com/XigenIO/PHP-phpcs-ruleset",
     "license": "MIT",
     "authors": [{
         "name": "Chirs Hilsdon",
