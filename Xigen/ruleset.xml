@@ -7,7 +7,7 @@
     <!-- Xigen Overide -->
 
         <rule ref="Generic.Arrays.DisallowLongArraySyntax"/>
-        
+
     <!-- EOF: Xigen Overide -->
 
     <!-- Include the whole PSR-1 standard -->
@@ -78,5 +78,10 @@
     </rule>
     <rule ref="PEAR.Functions.FunctionCallSignature.CloseBracketLine">
         <severity>0</severity>
+    </rule>
+
+    <!-- Support for group use declaration -->
+    <rule ref="PSR2.Namespaces.UseDeclaration">
+        <exclude-pattern>*</exclude-pattern>
     </rule>
 </ruleset>
